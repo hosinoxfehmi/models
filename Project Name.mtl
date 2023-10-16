@@ -1,3 +1,39 @@
+newmtl Cover 5_57230fe3-b20f-46b1-a85e-3185bdc1c018
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages 5_cde0540a-9a63-46b9-98d8-b988e47f7aac
+Kd 0.878 0.878 0.878
+d 1.000
+newmtl Cover 4_ffe49fe6-6412-4e43-a572-2640476f72d4
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages 4_c4738b91-ab3f-4d89-b081-a3733eb9ebdf
+Kd 0.878 0.878 0.878
+d 1.000
+newmtl Cover 3_c18009b4-ba48-49ba-b8d3-4a4ef89341e1
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages 3_fa718f95-ad46-4a3d-b8eb-1d492094648c
+Kd 0.878 0.878 0.878
+d 1.000
+newmtl Cover 2_d286ce0e-983b-428c-91ee-160db912fc8f
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages 2_911ac0f8-9d5e-46be-bed1-6a7d81bcc9f4
+Kd 0.878 0.878 0.878
+d 1.000
+newmtl Cover 1_64131eae-efb1-4b91-a82a-e815966c33ef
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages 1_2beca7f1-b473-41b7-b285-5e7e79a5c7fd
+Kd 0.878 0.878 0.878
+d 1.000
+newmtl Cover_6ee517d4-13f0-40dc-8d7b-55583378c53a
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pages_eee724d1-0960-4013-b010-995edf0b9647
+Kd 0.878 0.878 0.878
+d 1.000
 newmtl Colors_da3f833a-1e07-490e-be08-f86491d1d313
 Kd 1.000 1.000 1.000
 d 1.000
