@@ -1,3 +1,36 @@
+newmtl Main building 4_c2c23f0f-7fc9-473f-9ce2-530e3207c904
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Roof 4_f20728a2-7af8-45f2-b452-06f994afa7f3
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Door_40ebed8e-4f69-4f1d-be6c-98dfb9f75706
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Bottom_4c9cc83e-3d63-4854-927d-97de976406f2
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Plaster_e39a0c49-0992-4242-ba0a-b224f3a98d94
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Window glass_5fb99454-d9f2-49ae-b7dc-503b32c120ac
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Red signs and pots_fa05f77f-446a-493c-bd33-b86e3824485b
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Grey material_373ab16b-87dd-47c0-9d3b-5d9b103abdfc
+Kd 0.600 0.600 0.600
+d 1.000
+newmtl Roof_fcf7d70a-9012-45bb-9ee7-b06711aba365
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Main buildng_fd5915eb-777f-41a6-8e64-0b5beff10478
+Kd 0.788 0.788 0.788
+d 1.000
+newmtl Trees_0e1bc898-463e-480d-9cc0-5aa0c3c1f0fe
+Kd 0.251 0.808 0.482
+d 1.000
 newmtl Aria_fede39ec-596b-41ee-b86a-8914efa28356
 Kd 0.000 0.322 1.000
 d 1.000
@@ -22,6 +55,10 @@ d 1.000
 newmtl Barbarossa_d1abf80e-43a8-4d49-a6bd-d80452966ab2
 Kd 1.000 0.000 0.000
 d 1.000
+newmtl Colors 3_09b1a384-4dc1-447c-a600-c98ed4ea30c9
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
 newmtl Colors_da3f833a-1e07-490e-be08-f86491d1d313
 Kd 1.000 1.000 1.000
 d 1.000
@@ -34,3 +71,9 @@ newmtl Colors 1_76656d05-c4ec-4c9a-82d1-7bcd31b04069
 Kd 1.000 1.000 1.000
 d 1.000
 map_Kd Gltf_Import.jpg
+newmtl Material.001 1_e7636589-0113-4507-b716-d773cb75898f
+Kd 0.000 0.859 0.522
+d 1.000
+newmtl Material.001_68610762-8550-4cc8-abae-e57a30ef5076
+Kd 0.000 0.859 0.522
+d 1.000
