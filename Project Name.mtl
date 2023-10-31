@@ -31,6 +31,9 @@ d 1.000
 newmtl Trees_0e1bc898-463e-480d-9cc0-5aa0c3c1f0fe
 Kd 0.251 0.808 0.482
 d 1.000
+newmtl Aria 1_070952fd-a4f9-4533-be86-e0349bd0956b
+Kd 0.000 0.322 1.000
+d 1.000
 newmtl Aria_fede39ec-596b-41ee-b86a-8914efa28356
 Kd 0.000 0.322 1.000
 d 1.000
@@ -77,3 +80,7 @@ d 1.000
 newmtl Material.001_68610762-8550-4cc8-abae-e57a30ef5076
 Kd 0.000 0.859 0.522
 d 1.000
+newmtl Default Material_5061f468-23af-4d9a-a851-abfcd8dedf9c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import&Gltf_Import_2.png
