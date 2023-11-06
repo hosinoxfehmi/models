@@ -1,36 +1,3 @@
-newmtl Main building 4_c2c23f0f-7fc9-473f-9ce2-530e3207c904
-Kd 1.000 1.000 1.000
-d 1.000
-newmtl Roof 4_f20728a2-7af8-45f2-b452-06f994afa7f3
-Kd 0.243 0.247 0.318
-d 1.000
-newmtl Door_40ebed8e-4f69-4f1d-be6c-98dfb9f75706
-Kd 0.976 0.329 0.439
-d 1.000
-newmtl Bottom_4c9cc83e-3d63-4854-927d-97de976406f2
-Kd 0.243 0.247 0.318
-d 1.000
-newmtl Plaster_e39a0c49-0992-4242-ba0a-b224f3a98d94
-Kd 0.976 0.329 0.439
-d 1.000
-newmtl Window glass_5fb99454-d9f2-49ae-b7dc-503b32c120ac
-Kd 0.243 0.247 0.318
-d 1.000
-newmtl Red signs and pots_fa05f77f-446a-493c-bd33-b86e3824485b
-Kd 0.976 0.329 0.439
-d 1.000
-newmtl Grey material_373ab16b-87dd-47c0-9d3b-5d9b103abdfc
-Kd 0.600 0.600 0.600
-d 1.000
-newmtl Roof_fcf7d70a-9012-45bb-9ee7-b06711aba365
-Kd 0.243 0.247 0.318
-d 1.000
-newmtl Main buildng_fd5915eb-777f-41a6-8e64-0b5beff10478
-Kd 0.788 0.788 0.788
-d 1.000
-newmtl Trees_0e1bc898-463e-480d-9cc0-5aa0c3c1f0fe
-Kd 0.251 0.808 0.482
-d 1.000
 newmtl Aria 1_070952fd-a4f9-4533-be86-e0349bd0956b
 Kd 0.000 0.322 1.000
 d 1.000
@@ -63,30 +30,6 @@ Kd 1.000 1.000 1.000
 d 1.000
 map_Kd Gltf_Import.jpg
 newmtl Colors_da3f833a-1e07-490e-be08-f86491d1d313
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 10_7473f893-1a5b-418c-8d3a-5a579275dcf1
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 11_b8e82fb8-e236-4482-85de-86f0ad4747b8
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 12_cd0d0aec-b363-4cee-a1e5-e69c1992b737
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 13_3279c5e6-fd99-4cd2-8098-431b3ae26cd2
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 14_b17a3ffa-b536-40ff-b8c0-4098cf6e0707
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import.jpg
-newmtl Colors 15_62aa3d9b-03d5-4017-a87b-ff193b71725a
 Kd 1.000 1.000 1.000
 d 1.000
 map_Kd Gltf_Import.jpg
@@ -125,4 +68,4 @@ map_Kd Gltf_Import.jpg
 newmtl Default Material_5061f468-23af-4d9a-a851-abfcd8dedf9c
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import&Gltf_Import_2.png
+map_Kd Gltf_Import&Gltf_Import_1.png
