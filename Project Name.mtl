@@ -1,40 +1,43 @@
+newmtl Main building 4_c2c23f0f-7fc9-473f-9ce2-530e3207c904
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Roof 4_f20728a2-7af8-45f2-b452-06f994afa7f3
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Door_40ebed8e-4f69-4f1d-be6c-98dfb9f75706
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Bottom_4c9cc83e-3d63-4854-927d-97de976406f2
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Plaster_e39a0c49-0992-4242-ba0a-b224f3a98d94
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Window glass_5fb99454-d9f2-49ae-b7dc-503b32c120ac
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Red signs and pots_fa05f77f-446a-493c-bd33-b86e3824485b
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Grey material_373ab16b-87dd-47c0-9d3b-5d9b103abdfc
+Kd 0.600 0.600 0.600
+d 1.000
+newmtl Roof_fcf7d70a-9012-45bb-9ee7-b06711aba365
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Main buildng_fd5915eb-777f-41a6-8e64-0b5beff10478
+Kd 0.788 0.788 0.788
+d 1.000
+newmtl Trees_0e1bc898-463e-480d-9cc0-5aa0c3c1f0fe
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Aria 1_070952fd-a4f9-4533-be86-e0349bd0956b
+Kd 0.000 0.322 1.000
+d 1.000
 newmtl Aria_fede39ec-596b-41ee-b86a-8914efa28356
 Kd 0.000 0.322 1.000
 d 1.000
-newmtl Barbarossa 13_3e3932a5-331e-4fa6-b599-b9c40f00f1dc
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 14_4eb7194a-b7dc-4b7f-b011-12f954b5e5b0
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 15_3a8223f8-7eb3-469b-83fc-117a1175e09c
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 16_0e36739a-75f9-4e9f-adad-375208614404
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 17_6202fe82-9c03-4eef-95f8-2ceca6cdc036
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 18_a601d8b6-5721-4dc1-8e30-b06028d6fc0e
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 7_28aab072-3009-445e-9b6c-619bcf38a4b1
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 8_b3959cd3-99ca-4b7b-a118-ad97bfe19430
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 9_9462e6aa-e80a-4455-938b-dcf164be166d
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 10_37ffbc63-dce8-4bad-bf0b-711c3c205088
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 11_1b2430e5-d9f6-488e-af53-cb605d3ff4c2
-Kd 1.000 0.000 0.000
-d 1.000
-newmtl Barbarossa 12_8b0efe6e-5631-46d4-a5f8-e444ca76b535
+newmtl Barbarossa 6_bbc80f4a-d5af-4f69-84f3-df1609544405
 Kd 1.000 0.000 0.000
 d 1.000
 newmtl Barbarossa 5_4848d9b5-4aae-4689-b341-43bc65c4e8de
@@ -55,6 +58,38 @@ d 1.000
 newmtl Barbarossa_d1abf80e-43a8-4d49-a6bd-d80452966ab2
 Kd 1.000 0.000 0.000
 d 1.000
+newmtl Colors 3_09b1a384-4dc1-447c-a600-c98ed4ea30c9
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors_da3f833a-1e07-490e-be08-f86491d1d313
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 10_7473f893-1a5b-418c-8d3a-5a579275dcf1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 11_b8e82fb8-e236-4482-85de-86f0ad4747b8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 12_cd0d0aec-b363-4cee-a1e5-e69c1992b737
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 13_3279c5e6-fd99-4cd2-8098-431b3ae26cd2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 14_b17a3ffa-b536-40ff-b8c0-4098cf6e0707
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Colors 15_62aa3d9b-03d5-4017-a87b-ff193b71725a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
 newmtl Colors 4_fbd10704-a623-4e98-8800-578bd45b31e2
 Kd 1.000 1.000 1.000
 d 1.000
@@ -62,60 +97,32 @@ map_Kd Gltf_Import.jpg
 newmtl Colors 5_661a7214-8c2d-43ca-9d17-6f551683f839
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_1.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 6_c8c4ca8d-8f56-40fa-9596-5ea826a5f68f
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_2.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 7_4f931073-9d9a-4bcf-9df7-56b78a718906
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_1.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 8_2dcf6196-15f4-4c2d-8d8e-830324dbac3a
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_3.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 9_e90ae2e7-7c19-4fc5-9221-49be1cffc9bf
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_1.jpg
-newmtl Colors 10_0b5e3e55-4ce2-48a2-8e25-5a2e14e7f2ec
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 11_822a7cfb-4479-4d84-9fb8-12342ca944ee
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 12_3be02c04-d90f-4af4-a954-df7992e608c0
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 13_acaf1533-7755-4871-b6b9-7316a62b9b16
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 14_27493a65-625d-40d2-bbf7-ef684d0787f9
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 15_578e018d-da6e-49ba-99e7-d248ab1aad64
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 2_a3b40981-18c7-4638-ad53-482aba0bfc40
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors 3_09b1a384-4dc1-447c-a600-c98ed4ea30c9
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
-newmtl Colors_da3f833a-1e07-490e-be08-f86491d1d313
-Kd 1.000 1.000 1.000
-d 1.000
-map_Kd Gltf_Import_4.jpg
+map_Kd Gltf_Import.jpg
 newmtl Colors 1_76656d05-c4ec-4c9a-82d1-7bcd31b04069
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_4.jpg
+map_Kd Gltf_Import.jpg
+newmtl Default Material_5061f468-23af-4d9a-a851-abfcd8dedf9c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import&Gltf_Import_2.png
