@@ -119,3 +119,34 @@ newmtl Colors 1_76656d05-c4ec-4c9a-82d1-7bcd31b04069
 Kd 1.000 1.000 1.000
 d 1.000
 map_Kd Gltf_Import_4.jpg
+newmtl Rock 1_50f4496f-d460-4651-bb2f-6f6ac7fba7f4
+Kd 0.353 0.353 0.353
+d 1.000
+newmtl Wood 1_20a1c75c-a6a2-4ead-b2a1-082ac4810f58
+Kd 0.783 0.563 0.355
+d 1.000
+newmtl GreyMetal 1_2d7fec01-63d3-4950-8d82-52aae325f9c5
+Kd 0.607 0.607 0.607
+d 1.000
+newmtl Rock_12a4d421-7b31-4599-88be-1d0fc2bc30b1
+Kd 0.353 0.353 0.353
+d 1.000
+newmtl Wood_46102ccf-e45d-4ac8-be90-86d00f02f757
+Kd 0.783 0.563 0.355
+d 1.000
+newmtl GreyMetal_7503dd98-8ff6-4713-a820-ea8a58d1c476
+Kd 0.607 0.607 0.607
+d 1.000
+newmtl Black_8a359314-aed4-4336-a599-45418f9b577a
+Kd 0.147 0.147 0.147
+d 1.000
+newmtl Window_62f456be-8eca-49c9-beb5-6a8536465c40
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Accent_d439d538-09b1-4a92-b2a8-22ffc3b99ddf
+Kd 1.000 0.726 0.358
+d 1.000
+newmtl Monarch_7ad25a12-742a-4186-bf53-e068e0678bf8
+Kd 0.937 0.937 0.937
+d 1.000
