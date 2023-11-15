@@ -62,15 +62,15 @@ map_Kd Gltf_Import.jpg
 newmtl Colors 5_661a7214-8c2d-43ca-9d17-6f551683f839
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_2.jpg
+map_Kd Gltf_Import_1.jpg
 newmtl Colors 6_c8c4ca8d-8f56-40fa-9596-5ea826a5f68f
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_1.jpg
+map_Kd Gltf_Import_2.jpg
 newmtl Colors 7_4f931073-9d9a-4bcf-9df7-56b78a718906
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_2.jpg
+map_Kd Gltf_Import_1.jpg
 newmtl Colors 8_2dcf6196-15f4-4c2d-8d8e-830324dbac3a
 Kd 1.000 1.000 1.000
 d 1.000
@@ -78,7 +78,7 @@ map_Kd Gltf_Import_3.jpg
 newmtl Colors 9_e90ae2e7-7c19-4fc5-9221-49be1cffc9bf
 Kd 1.000 1.000 1.000
 d 1.000
-map_Kd Gltf_Import_2.jpg
+map_Kd Gltf_Import_1.jpg
 newmtl Colors 10_0b5e3e55-4ce2-48a2-8e25-5a2e14e7f2ec
 Kd 1.000 1.000 1.000
 d 1.000
@@ -119,6 +119,33 @@ newmtl Colors 1_76656d05-c4ec-4c9a-82d1-7bcd31b04069
 Kd 1.000 1.000 1.000
 d 1.000
 map_Kd Gltf_Import_4.jpg
+newmtl Rock 4_44cc623b-3c82-49e6-aeea-c69c93740d38
+Kd 0.353 0.353 0.353
+d 1.000
+newmtl Wood 4_84017ba2-32f8-418e-abbe-485351e1e740
+Kd 0.783 0.563 0.355
+d 1.000
+newmtl GreyMetal 4_67e1dde7-0326-4397-a230-388efdaf17e8
+Kd 0.607 0.607 0.607
+d 1.000
+newmtl Rock 3_de2723e2-faa9-42e1-9d78-de90b3bd0b74
+Kd 0.353 0.353 0.353
+d 1.000
+newmtl Wood 3_b958a35e-9ff7-464b-ad25-15a1a4d00424
+Kd 0.783 0.563 0.355
+d 1.000
+newmtl GreyMetal 3_1e336027-130b-4919-9557-dbd159ff4caf
+Kd 0.607 0.607 0.607
+d 1.000
+newmtl Rock 2_cb31f088-7e2e-450d-b01a-a9a64ba25404
+Kd 0.353 0.353 0.353
+d 1.000
+newmtl Wood 2_db50e6c4-6ebf-4de0-83bd-5c2acd03e1ea
+Kd 0.783 0.563 0.355
+d 1.000
+newmtl GreyMetal 2_1666aeed-ae44-41dd-b440-b4cfff6a403e
+Kd 0.607 0.607 0.607
+d 1.000
 newmtl Rock 1_50f4496f-d460-4651-bb2f-6f6ac7fba7f4
 Kd 0.353 0.353 0.353
 d 1.000
